@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fIp6B2iIfCU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\renat\\source\\repos\\testeAEC\\MeuRoboAutomacao\\MeuRoboAutomacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renat\\.nuget\\packages\\selenium.webdriver\\4.24.0\\selenium.webdriver.4.24.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\selenium.webdriver.chromedriver\\128.0.6613.13700\\selenium.webdriver.chromedriver.128.0.6613.13700.nupkg.sha512"
+  ],
+  "logs": []
+}

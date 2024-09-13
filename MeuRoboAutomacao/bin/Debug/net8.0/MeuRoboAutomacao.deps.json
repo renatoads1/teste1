@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MeuRoboAutomacao/1.0.0": {
+        "dependencies": {
+          "MeuRoboDominio": "1.0.0",
+          "Selenium.WebDriver": "4.24.0",
+          "Selenium.WebDriver.ChromeDriver": "128.0.6613.13700"
+        },
+        "runtime": {
+          "MeuRoboAutomacao.dll": {}
+        }
+      },
+      "Selenium.WebDriver/4.24.0": {
+        "runtime": {
+          "lib/net8.0/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/128.0.6613.13700": {},
+      "MeuRoboDominio/1.0.0": {
+        "runtime": {
+          "MeuRoboDominio.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MeuRoboAutomacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Selenium.WebDriver/4.24.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pwpNZQPCtDFH07nCliNMT/YRR5NhlPmxsrh/9e7PQsI/TfSUBy/VEdA6QwDY2WybzVZ6SlYSu1bv3cWKkiN8/w==",
+      "path": "selenium.webdriver/4.24.0",
+      "hashPath": "selenium.webdriver.4.24.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver.ChromeDriver/128.0.6613.13700": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RNz+Y+736iu/n1vHyYeT3d5CWgCLJW7nZh88C8WP55AQ91CVQ5oMmrBUmoxIp/WdeUtbnKL4A6U/M3YhMhC9Cw==",
+      "path": "selenium.webdriver.chromedriver/128.0.6613.13700",
+      "hashPath": "selenium.webdriver.chromedriver.128.0.6613.13700.nupkg.sha512"
+    },
+    "MeuRoboDominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

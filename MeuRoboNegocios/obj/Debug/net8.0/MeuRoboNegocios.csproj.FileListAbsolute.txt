@@ -1,0 +1,11 @@
+C:\Users\renat\source\repos\Teste1\MeuRoboNegocios\bin\Debug\net8.0\MeuRoboNegocios.deps.json
+C:\Users\renat\source\repos\Teste1\MeuRoboNegocios\bin\Debug\net8.0\MeuRoboNegocios.dll
+C:\Users\renat\source\repos\Teste1\MeuRoboNegocios\bin\Debug\net8.0\MeuRoboNegocios.pdb
+C:\Users\renat\source\repos\Teste1\MeuRoboNegocios\obj\Debug\net8.0\MeuRoboNegocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\source\repos\Teste1\MeuRoboNegocios\obj\Debug\net8.0\MeuRoboNegocios.AssemblyInfoInputs.cache
+C:\Users\renat\source\repos\Teste1\MeuRoboNegocios\obj\Debug\net8.0\MeuRoboNegocios.AssemblyInfo.cs
+C:\Users\renat\source\repos\Teste1\MeuRoboNegocios\obj\Debug\net8.0\MeuRoboNegocios.csproj.CoreCompileInputs.cache
+C:\Users\renat\source\repos\Teste1\MeuRoboNegocios\obj\Debug\net8.0\MeuRoboNegocios.dll
+C:\Users\renat\source\repos\Teste1\MeuRoboNegocios\obj\Debug\net8.0\refint\MeuRoboNegocios.dll
+C:\Users\renat\source\repos\Teste1\MeuRoboNegocios\obj\Debug\net8.0\MeuRoboNegocios.pdb
+C:\Users\renat\source\repos\Teste1\MeuRoboNegocios\obj\Debug\net8.0\ref\MeuRoboNegocios.dll
