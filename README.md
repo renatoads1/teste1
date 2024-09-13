@@ -2,8 +2,8 @@
 ### Arquivo appsettings.json
 Altere a conexão de banco de dados sqlserver<br>
 EX: <br>
-Server=IP do seu servidor ou localhost;<br>
-Catalog=Nome do seu banco;<br>
+Server=[IP do seu servidor ou localhost];<br>
+Catalog=[Nome do seu banco];<br>
 
 ### Projeto Startup
 O projeto de inicialização deve ser o MeuRobo
