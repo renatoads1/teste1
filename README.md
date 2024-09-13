@@ -3,7 +3,7 @@
 
 
 # Migrations
-<strong>abra o console do Entity e execute os comandos<strong> <br>
+**abra o console do Entity e execute os comandos** <br>
   add-migration bd-criacao<br> 
   update-database
 
