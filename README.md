@@ -1,2 +1,8 @@
-# teste1
-teste para programador C#
+# Instruções
+
+
+
+# Migrations
+  add-migration bd-criacao
+  update-database
+
