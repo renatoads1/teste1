@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MeuRobo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd02589d3931c91e03fa6de7eebb1a2d220b942c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18e6a02f7214e4b736ea897291b7bfe386c31653")]
 [assembly: System.Reflection.AssemblyProductAttribute("MeuRobo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MeuRobo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
