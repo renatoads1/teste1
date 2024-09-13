@@ -3,6 +3,7 @@
 
 
 # Migrations
-  add-migration bd-criacao
+abra o console do Entity e execute os comandos 
+  add-migration bd-criacao \n
   update-database
 
