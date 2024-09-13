@@ -11,7 +11,7 @@ O projeto de inicialização deve ser o MeuRobo
 
 # Migrations
 ### Abra o console do Entity e execute os comandos <br>
-  add-migration bd-criacao<br> 
+  add-migration [Nome do seu banco aqui]<br> 
   update-database
 
 
