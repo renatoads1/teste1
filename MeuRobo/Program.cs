@@ -11,7 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddScoped<IExecutorRepository,Executor>();
-builder.Services.AddScoped<ICursosRepository, CursosRepository>();
+//builder.Services.AddScoped<ICursosRepository, CursosRepository>();
 //db conetxt
 builder.Services.AddDbContext<CursosDBContext>(options => {
     options.UseSqlServer(builder.Configuration.GetConnectionString("SqlConnection"));

@@ -113,11 +113,7 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\renat\\source\\repos\\testeAEC\\MeuRoboNegocios\\MeuRoboDominio.csproj": {
-                "projectPath": "C:\\Users\\renat\\source\\repos\\testeAEC\\MeuRoboNegocios\\MeuRoboDominio.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -205,7 +201,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\renat\\source\\repos\\testeAEC\\MeuRoboDados\\MeuRoboDados.csproj": {
+                "projectPath": "C:\\Users\\renat\\source\\repos\\testeAEC\\MeuRoboDados\\MeuRoboDados.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -304,6 +304,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.5, )"
             }
           },
           "imports": [

@@ -1,3 +1,4 @@
+using MeuRobo.Controllers.Base;
 using MeuRobo.Models;
 using MeuRoboNegocios.Interfaces;
 using Microsoft.AspNetCore.Mvc;
@@ -5,7 +6,7 @@ using System.Diagnostics;
 
 namespace MeuRobo.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : BaseController
     {
         private readonly ILogger<HomeController> _logger;
         private readonly IExecutorRepository _executorRepository;
@@ -18,6 +19,7 @@ namespace MeuRobo.Controllers
 
         public IActionResult Index()
         {
+            
             return View();
         }
 
@@ -37,7 +39,8 @@ namespace MeuRobo.Controllers
             }
             else
             {
-                return View("Privacy");
+                MessageError("O campo de pesquisa não pode estar em Branco", "warning");
+                return View("Index");
             }
 
         }

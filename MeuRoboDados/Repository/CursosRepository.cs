@@ -1,11 +1,10 @@
 ﻿using MeuRoboDados.Contexto;
 using MeuRoboDados.Models;
-using MeuRoboDominio.Interfaces;
-using Microsoft.EntityFrameworkCore.Infrastructure.Internal;
+
 
 namespace MeuRoboDados.Repository
 {
-    public class CursosRepository : ICursosRepository
+    public class CursosRepository 
     {
         private readonly CursosDBContext _context;
 
@@ -16,6 +15,12 @@ namespace MeuRoboDados.Repository
         public CursosRepository(CursosDBContext context)
         {
             _context = context;
+        }
+
+        public List<CursosModel> GetCursos() { 
+        
+            var cursos = _context.curso.ToList();
+            return cursos;
         }
 
         public bool SetCursos(List<string> cursos)
