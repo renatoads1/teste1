@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MeuRoboDominio.Response
 {
-    public class CursosResponse
+    public class CursosResponse 
     {
         public int Id { get; set; }
         public string Titulo { get; set; }

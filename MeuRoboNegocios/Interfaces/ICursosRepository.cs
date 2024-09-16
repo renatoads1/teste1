@@ -4,7 +4,7 @@ namespace MeuRoboDominio.Interfaces
 {
     public interface ICursosRepository
     {
-        bool SetCursos(List<string> cursos);
+        bool SetCursos(List<CursosResponse> cursos);
         List<CursosResponse> GetCursos();
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MeuRoboDados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfbdae2ab26cf9134b19b6e22a0753420c0d8982")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7c302e2e7934044881a4472904cc4ea0f85173d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MeuRoboDados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MeuRoboDados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

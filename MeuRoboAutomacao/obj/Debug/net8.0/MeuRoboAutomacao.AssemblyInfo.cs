@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MeuRoboAutomacao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16de6472ca99e7215058c42803db07cc64d050ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7c302e2e7934044881a4472904cc4ea0f85173d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MeuRoboAutomacao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MeuRoboAutomacao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

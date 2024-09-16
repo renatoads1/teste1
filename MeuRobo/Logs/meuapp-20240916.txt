@@ -1,5 +1,5 @@
-2024-09-16 15:37:33.515 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
-OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name ="querys"]"}
+2024-09-16 16:48:47.174 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"h1.formacao-headline-titulo"}
   (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
    at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
    at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
@@ -8,4 +8,235 @@ OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate elemen
    at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
    at OpenQA.Selenium.By.FindElement(ISearchContext context)
    at OpenQA.Selenium.WebDriver.FindElement(By by)
-   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 42
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 67
+2024-09-16 16:48:47.295 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: element not found
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.GetAttribute(String attributeName)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 62
+2024-09-16 16:48:47.327 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: element not found
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.GetAttribute(String attributeName)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 62
+2024-09-16 16:48:47.365 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: element not found
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.GetAttribute(String attributeName)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 62
+2024-09-16 16:48:47.394 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: element not found
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.GetAttribute(String attributeName)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 62
+2024-09-16 16:48:47.422 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: element not found
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.GetAttribute(String attributeName)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 62
+2024-09-16 16:48:47.449 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: element not found
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.GetAttribute(String attributeName)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 62
+2024-09-16 16:48:47.478 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: element not found
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.GetAttribute(String attributeName)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 62
+2024-09-16 16:48:47.510 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: element not found
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.GetAttribute(String attributeName)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 62
+2024-09-16 16:48:47.541 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: element not found
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.GetAttribute(String attributeName)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 62
+2024-09-16 16:48:47.578 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: element not found
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.GetAttribute(String attributeName)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 62
+2024-09-16 16:48:47.615 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: element not found
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.GetAttribute(String attributeName)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 62
+2024-09-16 16:48:47.651 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: element not found
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.GetAttribute(String attributeName)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 62
+2024-09-16 16:48:47.683 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: element not found
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.GetAttribute(String attributeName)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 62
+2024-09-16 16:48:47.722 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: element not found
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.GetAttribute(String attributeName)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 62
+2024-09-16 16:48:47.762 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: element not found
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.GetAttribute(String attributeName)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 62
+2024-09-16 16:48:47.795 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: element not found
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.GetAttribute(String attributeName)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 62
+2024-09-16 16:48:47.828 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: element not found
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.GetAttribute(String attributeName)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 62
+2024-09-16 16:48:47.863 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: element not found
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.GetAttribute(String attributeName)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 62
+2024-09-16 16:48:47.896 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: element not found
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.GetAttribute(String attributeName)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 62
+2024-09-16 16:48:47.934 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: element not found
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.GetAttribute(String attributeName)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 62
+2024-09-16 16:48:47.975 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: element not found
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.GetAttribute(String attributeName)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 62
+2024-09-16 16:48:48.007 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: element not found
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.GetAttribute(String attributeName)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 62
+2024-09-16 16:48:48.037 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.NoSuchElementException: no such element: element not found
+  (Session info: chrome=128.0.6613.138); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebElement.GetAttribute(String attributeName)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 62
+2024-09-16 17:01:35.163 -03:00 [ERR] Elemento não encontrado
+2024-09-16 17:01:35.214 -03:00 [ERR] Elemento não encontrado
+2024-09-16 17:01:35.239 -03:00 [ERR] Elemento não encontrado
+2024-09-16 17:01:35.325 -03:00 [ERR] Elemento não encontrado
+2024-09-16 17:01:35.351 -03:00 [ERR] Elemento não encontrado
+2024-09-16 17:01:35.376 -03:00 [ERR] Elemento não encontrado
+2024-09-16 17:01:35.399 -03:00 [ERR] Elemento não encontrado
+2024-09-16 17:01:35.421 -03:00 [ERR] Elemento não encontrado
+2024-09-16 17:01:35.443 -03:00 [ERR] Elemento não encontrado
+2024-09-16 17:01:35.465 -03:00 [ERR] Elemento não encontrado
+2024-09-16 17:01:35.486 -03:00 [ERR] Elemento não encontrado
+2024-09-16 17:01:35.508 -03:00 [ERR] Elemento não encontrado
+2024-09-16 17:01:35.528 -03:00 [ERR] Elemento não encontrado
+2024-09-16 17:01:35.549 -03:00 [ERR] Elemento não encontrado
+2024-09-16 17:01:35.574 -03:00 [ERR] Elemento não encontrado
+2024-09-16 17:01:35.598 -03:00 [ERR] Elemento não encontrado
+2024-09-16 17:01:35.623 -03:00 [ERR] Elemento não encontrado
+2024-09-16 17:01:35.647 -03:00 [ERR] Elemento não encontrado
+2024-09-16 17:01:35.672 -03:00 [ERR] Elemento não encontrado
+2024-09-16 17:01:35.698 -03:00 [ERR] Elemento não encontrado
+2024-09-16 17:01:35.723 -03:00 [ERR] Elemento não encontrado
+2024-09-16 17:01:35.746 -03:00 [ERR] Elemento não encontrado
+2024-09-16 17:01:35.771 -03:00 [ERR] Elemento não encontrado
+2024-09-16 17:01:35.794 -03:00 [ERR] Elemento não encontrado

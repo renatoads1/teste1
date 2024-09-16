@@ -21,4 +21,8 @@
     <ProjectReference Include="..\MeuRoboNegocios\MeuRoboDominio.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Logs\" />
+  </ItemGroup>
+
 </Project>

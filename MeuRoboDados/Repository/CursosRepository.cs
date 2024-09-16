@@ -31,15 +31,15 @@ namespace MeuRoboDados.Repository
             return cursosresp;
         }
 
-        public bool SetCursos(List<string> cursos)
+        public bool SetCursos(List<CursosResponse> cursos)
         {
             try {
                 foreach (var cur in cursos) {
                     CursosModel cursosnew = new CursosModel();
-                    cursosnew.Professor = "Teste";
-                    cursosnew.Descricao = "Teste";
-                    cursosnew.CargaHoraria = "Teste";
-                    cursosnew.Titulo = cur;
+                    cursosnew.Professor = cur.Professor;
+                    cursosnew.Descricao = cur.Descricao;
+                    cursosnew.CargaHoraria = cur.CargaHoraria;
+                    cursosnew.Titulo = cur.Titulo;
                     _context.curso.Add(cursosnew);
                    
                 }
