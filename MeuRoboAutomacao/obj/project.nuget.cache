@@ -1,11 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "fIp6B2iIfCU=",
+  "dgSpecHash": "6qTZkI08Fqs=",
   "success": true,
   "projectFilePath": "C:\\Users\\renat\\source\\repos\\testeAEC\\MeuRoboAutomacao\\MeuRoboAutomacao.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.extensions.logging.configuration\\8.0.0\\microsoft.extensions.logging.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.extensions.logging.console\\8.0.0\\microsoft.extensions.logging.console.8.0.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\selenium.webdriver\\4.24.0\\selenium.webdriver.4.24.0.nupkg.sha512",
-    "C:\\Users\\renat\\.nuget\\packages\\selenium.webdriver.chromedriver\\128.0.6613.13700\\selenium.webdriver.chromedriver.128.0.6613.13700.nupkg.sha512"
+    "C:\\Users\\renat\\.nuget\\packages\\selenium.webdriver.chromedriver\\128.0.6613.13700\\selenium.webdriver.chromedriver.128.0.6613.13700.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\serilog\\4.0.1\\serilog.4.0.1.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\serilog.sinks.console\\6.0.0\\serilog.sinks.console.6.0.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\serilog.sinks.file\\6.0.0\\serilog.sinks.file.6.0.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

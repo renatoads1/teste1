@@ -414,3 +414,6 @@ C:\Users\renat\source\repos\testeAEC\MeuRobo\obj\Debug\net8.0\MeuRobo.pdb
 C:\Users\renat\source\repos\testeAEC\MeuRobo\obj\Debug\net8.0\MeuRobo.genruntimeconfig.cache
 C:\Users\renat\source\repos\testeAEC\MeuRobo\obj\Debug\net8.0\ref\MeuRobo.dll
 C:\Users\renat\source\repos\testeAEC\MeuRobo\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\renat\source\repos\testeAEC\MeuRobo\bin\Debug\net8.0\Serilog.dll
+C:\Users\renat\source\repos\testeAEC\MeuRobo\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\renat\source\repos\testeAEC\MeuRobo\bin\Debug\net8.0\Serilog.Sinks.File.dll
