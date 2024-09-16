@@ -113,7 +113,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\renat\\source\\repos\\testeAEC\\MeuRoboNegocios\\MeuRoboDominio.csproj": {
+                "projectPath": "C:\\Users\\renat\\source\\repos\\testeAEC\\MeuRoboNegocios\\MeuRoboDominio.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -131,6 +135,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.8, )"
@@ -201,11 +209,7 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\renat\\source\\repos\\testeAEC\\MeuRoboDados\\MeuRoboDados.csproj": {
-                "projectPath": "C:\\Users\\renat\\source\\repos\\testeAEC\\MeuRoboDados\\MeuRoboDados.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -299,6 +303,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",

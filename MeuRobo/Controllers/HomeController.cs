@@ -35,7 +35,7 @@ namespace MeuRobo.Controllers
             {
                List<string> listaTitulo = _executorRepository.Execute(nome);
                ViewBag.Titulo = listaTitulo;
-                return View("Index");
+                return RedirectToAction("Index", "Cursos");
             }
             else
             {

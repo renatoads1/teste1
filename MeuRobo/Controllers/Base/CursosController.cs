@@ -19,9 +19,9 @@ namespace MeuRobo.Controllers.Base
         // GET: CursosController
         public ActionResult Index()
         {
-            //var cursos = _cursosRepository.GetCursos();
-            //return View(cursos);
-            return View();
+            var cursos = _cursosRepository.GetCursos();
+
+            return View(cursos);
         }
 
         // GET: CursosController/Details/5

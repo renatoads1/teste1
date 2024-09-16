@@ -1,15 +1,10 @@
-﻿using MeuRoboDados.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using MeuRoboDominio.Response;
 
 namespace MeuRoboDominio.Interfaces
 {
     public interface ICursosRepository
     {
-        bool SetCursos(List<String> cursos);
-        List<CursosModel> GetCursos();
+        bool SetCursos(List<string> cursos);
+        List<CursosResponse> GetCursos();
     }
 }

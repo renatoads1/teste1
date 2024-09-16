@@ -413,3 +413,4 @@ C:\Users\renat\source\repos\testeAEC\MeuRobo\obj\Debug\net8.0\refint\MeuRobo.dll
 C:\Users\renat\source\repos\testeAEC\MeuRobo\obj\Debug\net8.0\MeuRobo.pdb
 C:\Users\renat\source\repos\testeAEC\MeuRobo\obj\Debug\net8.0\MeuRobo.genruntimeconfig.cache
 C:\Users\renat\source\repos\testeAEC\MeuRobo\obj\Debug\net8.0\ref\MeuRobo.dll
+C:\Users\renat\source\repos\testeAEC\MeuRobo\bin\Debug\net8.0\AutoMapper.dll

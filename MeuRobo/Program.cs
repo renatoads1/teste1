@@ -4,14 +4,18 @@ using MeuRoboDados.Repository;
 using MeuRoboDominio.Interfaces;
 using MeuRoboNegocios.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using AutoMapper;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+//maper
+builder.Services.AddAutoMapper(typeof(Program));
+
 builder.Services.AddScoped<IExecutorRepository,Executor>();
-//builder.Services.AddScoped<ICursosRepository, CursosRepository>();
+builder.Services.AddScoped<ICursosRepository, CursosRepository>();
 //db conetxt
 builder.Services.AddDbContext<CursosDBContext>(options => {
     options.UseSqlServer(builder.Configuration.GetConnectionString("SqlConnection"));

@@ -1,26 +1,34 @@
-﻿using MeuRoboDados.Contexto;
+﻿using AutoMapper;
+using MeuRoboDados.Contexto;
 using MeuRoboDados.Models;
+using MeuRoboDominio.Interfaces;
+using MeuRoboDominio.Response;
+
 
 
 namespace MeuRoboDados.Repository
 {
-    public class CursosRepository 
+    public class CursosRepository : ICursosRepository
     {
         private readonly CursosDBContext _context;
+        private readonly IMapper _mapper;
 
         public CursosRepository()
         {
         }
 
-        public CursosRepository(CursosDBContext context)
+        public CursosRepository(CursosDBContext context, IMapper mapper)
         {
             _context = context;
+            _mapper = mapper;
         }
 
-        public List<CursosModel> GetCursos() { 
+        public List<CursosResponse> GetCursos() { 
         
             var cursos = _context.curso.ToList();
-            return cursos;
+            //mapper aqui
+            var cursosresp = _mapper.Map<List<CursosResponse>>(cursos);
+            return cursosresp;
         }
 
         public bool SetCursos(List<string> cursos)
