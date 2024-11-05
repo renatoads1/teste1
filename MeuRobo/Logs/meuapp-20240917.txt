@@ -1,0 +1,54 @@
+2024-09-17 07:41:12.182 -03:00 [ERR] Ocorreu uma exceção no aplicativo.
+OpenQA.Selenium.WebDriverTimeoutException: Timed out after 10 seconds
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at MeuRoboAutomacao.Executor.Execute(String queryValue) in C:\Users\renat\source\repos\testeAEC\MeuRoboAutomacao\Executor.cs:line 64
+2024-09-17 07:41:12.280 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:41:12.304 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:41:12.335 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:41:12.364 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:41:12.393 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:41:12.422 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:41:12.448 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:41:12.474 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:41:12.508 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:41:12.540 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:41:12.579 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:41:12.612 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:41:12.646 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:41:12.677 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:41:12.705 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:41:12.733 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:41:12.757 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:41:12.781 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:41:12.808 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:41:12.836 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:41:12.861 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:41:12.885 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:41:12.911 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:41:12.934 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:07.234 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:07.398 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:07.456 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:07.493 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:07.535 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:07.581 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:07.623 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:07.668 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:07.713 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:07.750 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:07.798 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:07.839 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:07.881 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:07.922 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:07.959 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:07.995 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:08.031 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:08.074 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:08.115 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:08.154 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:08.192 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:08.228 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:08.265 -03:00 [ERR] Elemento não encontrado
+2024-09-17 07:46:08.308 -03:00 [ERR] Elemento não encontrado
